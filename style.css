@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+
+div{
+    height: 500px;
+    width: 500px;
+    border: solid black;
+    margin: auto;
+}
+
+div img{
+    height: inherit;
+    width: inherit;
+}
+
+button{
+    margin-top: 20px;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
